@@ -1,0 +1,16 @@
+{
+  "name": "piglatintranslator",
+  "version": "1.0.0",
+  "description": "Translates words or sentences into pig latin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordan Ramos",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.9.7"
+  }
+}
